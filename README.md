@@ -1,0 +1,16 @@
+### Hi there 👋
+
+<!--
+**Kwondermat/kwondermat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on creating a landing page for a marketplace selling beauty products
+- 🌱 I’m currently learning how to create a working page with custom domain
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with any suggestions that can make my page reachable, secure and add any useful functionalities
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
